@@ -11,7 +11,7 @@ pyaes==1.6.1
 PySocks==1.6.8
 qrcode==6.0
 requests>=2.20.0
-setuptools==39.0.1
+setuptools==65.5.1
 six==1.11.0
 urllib3>=1.24.2
 wheel==0.31.0
